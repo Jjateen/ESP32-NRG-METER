@@ -56,18 +56,18 @@ This project is an IoT-based energy meter designed for real-time monitoring of e
 ---
 
 ## Blynk Dashboard and Flowchart
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="blynk_dashboard.jpg" alt="Blynk Dashboard" width="400" height="auto">
-    </td>
-    <td align="center">
-      <img src="flowchart.png" alt="Flowchart" width="400" height="auto">
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+   <table>
+     <tr>
+       <td align="center">
+         <img src="blynk_dashboard.jpg" alt="Blynk Dashboard" width="380" height="auto">
+       </td>
+       <td align="center">
+         <img src="flowchart.png" alt="Flowchart" width="450" height="auto">
+       </td>
+     </tr>
+   </table>
+</div>
 
 ### **Steps to Configure Blynk:**
 1. **Create a new Blynk project.**
